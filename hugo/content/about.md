@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2019-01-25"
-author = "Dr Medaka"
+author = "Dr Moire"
 +++
 
 # About: Moire Lens Lab
