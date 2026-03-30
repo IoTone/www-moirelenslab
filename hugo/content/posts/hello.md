@@ -1,5 +1,5 @@
 +++
-title = "Dr Medaka's School for Fish and Kanji Learners (Season 1)"
+title = "Moiré Lens Lab (Season 1)"
 date = "2026-01-26"
 author = "Dr Moire"
 cover = "hello.jpg"
